@@ -22,7 +22,6 @@ public class PolicyHandler{
         // Sample Logic //
         // Payment payment = new Payment();
         // paymentRepository.save(payment);
-
     }
 
     @StreamListener(KafkaProcessor.INPUT)
